@@ -1,0 +1,27 @@
+# Compiled Java files
+*.class
+
+# Build folders
+/build/
+/dist/
+/target/
+/out/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
